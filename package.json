@@ -1,6 +1,6 @@
 {
   "name": "electron-mysql-auto-setup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Hallison <hallss93@hotmail.com>",
   "description": "Um projeto Electron com VueJS para Instalação do MySQL Portable",
   "license": null,
